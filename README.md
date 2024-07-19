@@ -7,11 +7,6 @@
   Guardian of the digital realm 🔒🌐. Freelance developer by day, cybersecurity enthusiast by night. Dedicated to mastering the art of backend design and offensive security techniques while safeguarding against cyber threats. Constantly evolving my skills and knowledge.
 </p>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <br/>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=22px></picture> &nbsp;About me
