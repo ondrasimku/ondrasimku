@@ -21,17 +21,13 @@
 </a>
 <br/>
 
-- 🔭 I’m currently working as a freelance full-stack website developer</a>
+- 🔭 I’m currently working as a ethical hacker and backend developer</a>
 
-- 🌱 I'm also a cybersecurity enthusiast
+- 🌱 Cybersecurity enthusiast
 
-- 🤝 I work with technologies such as **PHP, HTML, Symfony, React, Next, Strapi, MySQL, Python, SCSS**
+- 🤝 I work with technologies such as **PHP, HTML, Symfony, React, Next, MySQL, Python**
 
-- 🔒 On my cybersecurity journey I'm going into many different topics:
-  - _Website vulnerabilities and pentesting_
-  - _Malware development C/C++ - Windows malware bypassing SmartScreen using DLL sideloading, abusing windows LNK shortcut, communication with C2 server, bypassing windows defender_
-  - _Phishing framework written in python - Abusing BiTB, includes phishing for 2FA codes_
-  - _Currently learning AD security_
+- 🔒 On my cybersecurity and software development journey
  <br/>
 
 ## 👨🏻‍💻 &nbsp;Tech skills
